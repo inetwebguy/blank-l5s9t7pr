@@ -9,5 +9,7 @@
     "serve": "npx backlight@latest serve D46aJJyKUCYgtxRrxtja --open"
   },
   "devDependencies": {},
-  "dependencies": {}
+  "dependencies": {
+    "@mdx-js/react": "*"
+  }
 }
